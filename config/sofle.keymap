@@ -40,7 +40,7 @@
 &kp TAB           &kp Q   &kp W         &kp E     &kp R             &kp T                                &kp Y        &kp U              &kp I      &kp O          &kp P     &kp BACKSLASH
 &kp LEFT_SHIFT    &kp A   &kp S         &kp D     &kp F             &kp G                                &kp H        &kp J              &kp K      &kp L          &kp SEMI  &kp RETURN
 &kp LEFT_CONTROL  &kp Z   &kp X         &kp C     &kp V             &kp B        &to CODE     &to MEDIA  &kp N        &kp M              &kp COMMA  &kp DOT        &kp FSLH  &kp RSHFT
-                          &kp LEFT_WIN  &kp LALT  &kp LEFT_CONTROL  &mo SYMBOLS  &kp SPACE    &kp SPACE  &to CONTROL  &kp RIGHT_CONTROL  &kp RALT   &kp RIGHT_WIN
+                          &kp LEFT_WIN  &kp LALT  &kp LEFT_CONTROL  &mo SYMBOLS  &kp SPACE    &kp SPACE  &mo CONTROL  &kp RIGHT_CONTROL  &kp RALT   &kp RIGHT_WIN
             >;
 
             sensor-bindings =
