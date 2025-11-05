@@ -45,8 +45,8 @@
             >;
 
             sensor-bindings =
-                <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>,
-                <&inc_dec_kp C_AC_SCROLL_UP C_AC_SCROLL_DOWN>;
+                <&inc_dec_kp C_KEYBOARD_INPUT_ASSIST_NEXT_GROUP C_KEYBOARD_INPUT_ASSIST_PREVIOUS_GROUP>,
+                <&inc_dec_kp C_KEYBOARD_INPUT_ASSIST_NEXT C_KEYBOARD_INPUT_ASSIST_PREVIOUS>;
         };
 
         Symbols {
