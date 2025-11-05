@@ -46,7 +46,7 @@
 
             sensor-bindings =
                 <&inc_dec_kp PAGE_UP PAGE_DOWN>,
-                <&inc_dec_kp C_MENU_DECREASE C_MENU_INCREASE>;
+                <&inc_dec_kp C_AC_FORWARD C_AC_BACK>;
         };
 
         Symbols {
